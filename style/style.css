@@ -645,3 +645,60 @@ input[type="radio"] {
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgb(196 196 196 / 7%);
 }
+.center-block {
+  display: block;
+  margin: auto;
+}
+
+.modal-s {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  margin: 0 !important;
+  color: #001518;
+}
+.modal-title {
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 40px;
+  text-align: center;
+  color: #001518;
+}
+
+.btn-Custom-light-38 {
+  color: #016877;
+  border: 1px solid #016877;
+  height: 38px;
+  border-radius: 16px;
+  background: transparent;
+}
+.btn-Custom-light-38 span {
+  position: relative;
+  right: 4px;
+}
+.btn-Custom-38 span {
+  position: relative;
+  right: 4px;
+}
+.btn-Custom-38 {
+  color: #fff;
+  border: 1px solid #016877;
+  height: 38px;
+  border-radius: 16px;
+  background: #016877;
+}
+.modal-dialog {
+  margin: 12% auto;
+}
+.modal-dialog .modal-content {
+  border-radius: 16px;
+}
+.modal-footer {
+  padding: 12px;
+}
+.circle-span {
+  font-size: 4px;
+  position: relative;
+  top: -4px;
+  margin: 0 4px;
+}
